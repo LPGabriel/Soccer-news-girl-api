@@ -27,4 +27,11 @@
     "image": "https://raw.githubusercontent.com/LPGabriel/Soccer-news-girl-api/main/images/4.jpg",
     "link": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2022/03/04/noticias-spfc-sao-paulo-numeracao-time-feminino-camisa-10-lista.ghtml"
   }
+  {
+   "id": 4,
+    "title": "Estreia marcada",
+    "description": "São Paulo divulga numeração do time feminino e tem nova camisa 10; veja lista.",
+    "image": "https://raw.githubusercontent.com/LPGabriel/Soccer-news-girl-api/main/images/video1.txt",
+    "link": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2022/03/04/noticias-spfc-sao-paulo-numeracao-time-feminino-camisa-10-lista.ghtml"
+  }
 ]
